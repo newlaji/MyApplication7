@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_label">Button</string>
+    <string name="lable_add1">+3 Points</string>
+    <string name="lable_add2">+2 Points</string>
+    <string name="lable_add3">Free Throw</string>
+    <string name="btn_reset_label">reste</string>
+</resources>
